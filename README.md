@@ -13,7 +13,7 @@ The FTC-Profit-Calculator offers you a simple and easy way to keep track of your
 
 **What is Feathercoin?**
 
-If you want to learn more about Feathercoin visit their Webiste, Forum or GitHub page linked below:
+If you want to learn more about Feathercoin visit their Website, Forum or GitHub page linked below:
 - https://www.feathercoin.com/
 - http://forum.feathercoin.com/
 - https://github.com/FeatherCoin/Feathercoin
